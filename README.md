@@ -5,3 +5,5 @@
 ![image](https://github.com/maybenai/SwiftDemo/blob/master/TableViewSwift/2017-04-14%2011_51_35.gif)
 
 2、通知、代理、属性、闭包4种传值方法
+
+3、一句话改变button中title和image的位置
