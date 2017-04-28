@@ -7,3 +7,5 @@
 2、通知、代理、属性、闭包4种传值方法
 
 3、一句话改变button中title和image的位置
+
+4、CityViewChooseDemo
